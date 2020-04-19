@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/09qP7mv.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8TMYWI0.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SvUWRQm.png" tvg-country="ES" tvg-url="" group-title="Spanish",24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",La Sexta
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gD5eYVs.jpg" tvg-country="ES" tvg-url="" group-title="Spanish",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Lu3ISCk.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OwsmMWu.png" tvg-country="ES" tvg-url="" group-title="Spanish",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CQ77UnZ.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Spanish",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1UqvCPC.png" tvg-country="ES" tvg-url="" group-title="Spanish",Los 40
+https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+#EXTINF:-1 tvg-id="bbc.news.channel.uk" tvg-name="bbc.news.channel.uk" tvg-language="" tvg-logo="https://media.tv4.live/bbc.news.channel.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",BBC News
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",ABC News
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CBS News
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",Fox News
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10727
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="fox.news.us" tvg-language="" tvg-logo="https://media.tv4.live/fox.news.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",FOX News US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.news.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/10/d0b656c8-f79a-4492-946a-68278fcda687/thumbnail/logo-cbsnny-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="English",CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="English",FOX News
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-name="ABC COMEDY/ABC KIDS NSW" tvg-language="English" tvg-logo="https://www.abc.net.au/tv/epg/images/channels/ABC2_76x37.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="English",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",HBO COMEDY HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2XhjIqS.png" tvg-country="AR" tvg-url="" group-title="Spanish",Frecuencia Musical TV
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Spanish",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-country="BE" tvg-url="" group-title="Dutch",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Czech",Retro Music Television
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesian",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/UDFBYpN.png" tvg-country="IT" tvg-url="" group-title="Italian",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="IT" tvg-url="" group-title="Italian",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7BE9Cpp.png" tvg-country="MX" tvg-url="" group-title="Spanish",MTV (LatinoamÃ©rica)
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="club.mtv.uk" tvg-name="club.mtv.uk" tvg-language="" tvg-logo="https://media.tv4.live/club.mtv.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Club MTV
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/club.mtv.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="mtv.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.base.uk" tvg-name="mtv.base.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.base.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV BASE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.base.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.classic.uk" tvg-name="mtv.classic.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.classic.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV Classic
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.classic.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.hits.uk" tvg-name="mtv.hits.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.hits.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV HITS
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.hits.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.live.uk" tvg-name="mtv.live.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.live.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV Live
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.live.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.omg.uk" tvg-name="mtv.omg.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.omg.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV OMG
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.omg.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.rocks.uk" tvg-name="mtv.rocks.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.rocks.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV ROCKS
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.rocks.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.music.uk" tvg-name="mtv.music.uk" tvg-language="" tvg-logo="https://media.tv4.live/mtv.music.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",MTV Music UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.music.uk.m3u8
+#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-language="" tvg-logo="https://media.tv4.live/mtv.classic.east.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",MTV Classic US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.classic.east.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",MTV HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",MTV LIVE HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10760
+#EXTINF:-1 tvg-id="mtv.live.us" tvg-name="mtv.live.us" tvg-language="" tvg-logo="https://media.tv4.live/mtv.live.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Mtv Live US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mtv.live.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" tvg-url="" group-title="English",MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="music.choice.us" tvg-name="music.choice.us" tvg-language="" tvg-logo="https://media.tv4.live/music.choice.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Music Choice
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/music.choice.us.m3u8
+#EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="English",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",VH1 Classic
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",VH1 HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10655
+#EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-language="Czech" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Czech",Discovery
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",DISCOVERY DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/76633d9420.m3u8
+#EXTINF:-1 tvg-id="History.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="",HISTORY DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/0764a81818.m3u8
+#EXTINF:-1 tvg-id="DMAX IT" tvg-name="DMAX IT" tvg-language="Italian" tvg-logo="http://tv-online.in/wp-content/uploads/2015/02/DMax-live.gif" tvg-country="IT" tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz" group-title="Italian",DMAX
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Italian",History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc.one.uk" tvg-name="bbc.one.uk" tvg-language="" tvg-logo="https://media.tv4.live/bbc.one.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",BBC 1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.one.uk.m3u8
+#EXTINF:-1 tvg-id="bbc.two.uk" tvg-name="bbc.two.uk" tvg-language="" tvg-logo="https://media.tv4.live/bbc.two.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",BBC 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.two.uk.m3u8
+#EXTINF:-1 tvg-id="bbc.four.uk" tvg-name="bbc.four.uk" tvg-language="" tvg-logo="https://media.tv4.live/bbc.four.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",BBC 4
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.four.uk.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.uk" tvg-name="cartoon.network.uk" tvg-language="" tvg-logo="https://media.tv4.live/cartoon.network.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Cartoon Network UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/cartoon.network.uk.m3u8
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="cnbc.uk" tvg-language="" tvg-logo="https://media.tv4.live/cnbc.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",CNBC UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 tvg-id="history.uk" tvg-name="history.uk" tvg-language="" tvg-logo="https://media.tv4.live/history.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Discovery History UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/history.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.science.uk" tvg-name="discovery.science.uk" tvg-language="" tvg-logo="https://media.tv4.live/discovery.science.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Discovery Science UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.shed.uk" tvg-name="discovery.shed.uk" tvg-language="" tvg-logo="https://media.tv4.live/discovery.shed.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Discovery Shed UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.shed.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.uk" tvg-name="discovery.turbo.uk" tvg-language="" tvg-logo="https://media.tv4.live/discovery.turbo.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Discovery Turbo UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.turbo.uk.m3u8
+#EXTINF:-1 tvg-id="discovery.uk" tvg-name="discovery.uk" tvg-language="" tvg-logo="https://media.tv4.live/discovery.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Discovery UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.uk.m3u8
+#EXTINF:-1 tvg-id="dmax.uk" tvg-name="dmax.uk" tvg-language="" tvg-logo="https://media.tv4.live/dmax.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",DMAX
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/dmax.uk.m3u8
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="fox.uk" tvg-language="" tvg-logo="https://media.tv4.live/fox.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",FOX
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.uk.m3u8
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="history2.uk" tvg-language="" tvg-logo="https://media.tv4.live/history2.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",History2 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/history2.uk.m3u8
+#EXTINF:-1 tvg-id="investigation.discovery.uk" tvg-name="investigation.discovery.uk" tvg-language="" tvg-logo="https://media.tv4.live/investigation.discovery.uk.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="",Investigation Discovery UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/investigation.discovery.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",BBC America
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10697
+#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="bbc.world.north.america.us" tvg-language="" tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",BBC World North America US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.world.north.america.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",Cartoon Network
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CBS HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CNBC HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10676
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CW HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10748
+#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-language="" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Discovery Channel (East) US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",DISCOVERY CHANNEL HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10761
+#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-language="" tvg-logo="https://media.tv4.live/discovery.family.channel.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Discovery Family US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.family.channel.us.m3u8
+#EXTINF:-1 tvg-id="discovery.life.channel.us" tvg-name="discovery.life.channel.us" tvg-language="" tvg-logo="https://media.tv4.live/discovery.life.channel.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Discovery Life
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/discovery.life.channel.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",DISCOVERY VELOCITY HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10690
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-language="" tvg-logo="https://media.tv4.live/hbo.eastern.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",HBO (East) US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-id="hbo.west.us" tvg-name="hbo.west.us" tvg-language="" tvg-logo="https://media.tv4.live/hbo.west.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",HBO (West)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",HBO Family HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10674
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",HBO HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10732
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",HBO SIGNATURE
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",HBO ZONE
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10734
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="hbo.zone.east.us" tvg-language="" tvg-logo="https://media.tv4.live/hbo.zone.east.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",HBO Zone (East) US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 tvg-id="history.channel.us.eastern.us" tvg-name="history.channel.us.eastern.us" tvg-language="" tvg-logo="https://media.tv4.live/history.channel.us.eastern.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",History Channel US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/history.channel.us.eastern.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",History HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10762
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="investigation.discovery.usa.eastern.us" tvg-language="" tvg-logo="https://media.tv4.live/investigation.discovery.usa.eastern.us.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Investigation Discovery US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",MSNBC HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10669
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",TBS HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="US" tvg-url="" group-title="",USA Network
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="English",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" tvg-country="US" tvg-url="" group-title="English",FOX 7 (WSVN)
+http://190.80.3.28/FOX/FOX.isml/index.m3u8?the6tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" tvg-country="US" tvg-url="" group-title="English",FOX 7 Miami FL (WSVN)
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="English",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="English",Telemundo 44
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
